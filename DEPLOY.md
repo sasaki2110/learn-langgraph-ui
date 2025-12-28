@@ -13,7 +13,7 @@
 
 ```bash
 # プロジェクトルートから
-cd /root/learn-vercel-ai
+cd /root/learn-langgraph-ui
 
 # GCPにログイン
 gcloud auth login

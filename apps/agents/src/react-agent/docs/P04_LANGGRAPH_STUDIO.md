@@ -24,7 +24,7 @@ LangGraph Studioは、グラフを可視化・デバッグするためのツー�
 
 ```bash
 # プロジェクトルートから
-cd /root/learn-vercel-ai
+cd /root/learn-langgraph-ui
 npm run dev
 
 # または、agentsディレクトリから直接
